@@ -34,7 +34,7 @@
    },
    "outputs": [],
    "source": [
-    "#web drv \n",
+    "#web drv\n",
     "driver = webdriver.Chrome(ChromeDriverManager().install())"
    ]
   },
